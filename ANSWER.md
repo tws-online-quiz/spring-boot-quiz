@@ -6,3 +6,6 @@
 ````
 ./gradlew bootrun
 ````
+本地访问：
+- http://localhost:8080/employee/1
+- http://localhost:8080
