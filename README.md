@@ -1,7 +1,9 @@
-# Employee API
+# Spring Boot基础
 
 ## 练习描述
-- 本次练习需要大家使用Spring boot来完成一个关于Employee的API借口，至少需要完成对所有Employee的一个Get请求，返回一个包含所有Employyee的JSON，接口路径范例：`http://localhost:8080/employee`，有余力的同学可以尝试完成`增删改查`全部接口
+- 使用Spring boot来完成一个关于Employee的API接口
+- 至少需要完成对所有Employee的一个Get请求,返回一个包含所有Employee的JSON,接口路径范例：`http://localhost:8080/employee`
+- 有余力的同学可以尝试完成对Employee的`CURD(增删改查)`全部接口
 
 ## 环境描述 
 - java8
