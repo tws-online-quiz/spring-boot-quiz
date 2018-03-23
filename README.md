@@ -54,7 +54,7 @@
 ]
 ```
 - 截图，并将图片存放在项目根目录下，截图命名为`result.png`，图片中Response中的Employee必须包括你自己的名字，例如：
-![Result](./example.png)
+![](https://github.com/tws-online-quiz/spring-boot-quiz/blob/master/example.png)
     
 ## 题目要求
 - 至少完成`Get`请求
