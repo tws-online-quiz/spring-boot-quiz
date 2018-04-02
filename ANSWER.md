@@ -4,11 +4,10 @@
 点击上方 `作业下载` 链接，进行作业下载
 ### 如何启动
 ````
-./gradlew bootrun
+./gradlew bootRun
 ````
 本地访问：
-- http://localhost:8080/employee/1
-- http://localhost:8080
+- http://localhost:8080/employees
 
 ### 注意事项
 - 项目中数据采用假数据
